@@ -18,3 +18,5 @@
 ### Data
 In this project, I analyze disaster data from Figure Eight to build a model for an API that classifies disaster messages.
 Link for data - https://appen.com/
+This WebApp can solve real world issues helping us classifing disaster responses and the disaster responce management teams can easily get what the message wants to convey,
+and thus can take steps reguarding it to solve the problem sort.
