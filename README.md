@@ -1,4 +1,6 @@
-# Disaster Response Pipeline Project
+# Udacity Data Scientist Nanodegree Project-2
+
+## Disaster Response Pipeline Project
 
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
@@ -12,3 +14,7 @@
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
+
+### Data
+In this project, I analyze disaster data from Figure Eight to build a model for an API that classifies disaster messages.
+Link for data - https://appen.com/
